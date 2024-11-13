@@ -1,5 +1,4 @@
-[![Redes sociais](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
-)
+[![Redes sociais](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://beacons.ai/cristopherwegler)
 
 [Cris GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristopher-Wegler&show_icons=true&theme=dracula)
 
