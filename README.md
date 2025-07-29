@@ -23,6 +23,11 @@
 </picture>
 
 
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,Python)](https://skillicons.dev)
+
+
 ## ⭐ GitHub Stats
 <a href="https://github.com/eduardavieira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristopher-wegler-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
