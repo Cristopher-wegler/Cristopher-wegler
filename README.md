@@ -5,6 +5,9 @@
 - 📚 Estudando JavaScript, Python, e desenvolvimento fullstack
 
 <p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devwegler@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
