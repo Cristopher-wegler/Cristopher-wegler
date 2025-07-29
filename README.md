@@ -1,3 +1,13 @@
+#  Olá, eu sou Cristopher!
+
+## Sobre mim
+- 📚 Graduação em formação - Análse e desenvolvimento de sistemas (UNIASSELVI)
+- 📚 Estudando JavaScript, Python, e desenvolvimento fullstack
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devwegler@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
